@@ -114,6 +114,8 @@ a:hover {
   font-size: 3vw;
   font-family: a;
   margin-top: 4vw;
+  /* background-color: red; */
+  width: 21vw;
 }
 
 .left-content p {
